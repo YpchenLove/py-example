@@ -13,6 +13,12 @@ print(keyword.kwlist)
 """
 print("Hello, World!")
 
+a = '''sdfsdf
+asdfasdf
+asdfdsaf'''
+
+print(a)
+
 # 缩进
 
 if True:
